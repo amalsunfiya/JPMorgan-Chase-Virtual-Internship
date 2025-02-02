@@ -25,5 +25,3 @@ This repository contains all the submitted patch files of the various tasks assi
 - Make a contribution to Perspective or other projects backlogs 
 - `Contrubuting to the Open Source Community`
 ---
-#### My Certificate of Completion
-![image alt](https://github.com/amalsunfiya/JPMorgan-Chase-Virtual-Internship/blob/ec691f24bd90ebb0876a7da5b03a8ee057cbdd41/Completion_certificate.pdf)
