@@ -25,3 +25,5 @@ This repository contains all the submitted patch files of the various tasks assi
 - Make a contribution to Perspective or other projects backlogs 
 - `Contrubuting to the Open Source Community`
 ---
+#### 5. My Certificate of Completion
+Completion_certificate.pdf
